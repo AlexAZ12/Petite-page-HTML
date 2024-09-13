@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    color: white;
+    list-style: none;
+}
+
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(190,17,212,1) 44%, rgba(227,96,2,1) 100%); 
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    padding: 10%;
+}
+
+nav {
+    display: flex;
+}
+
+img {
+    width: 100px;
+}
+
+div {
+    margin: 5%;
+}
