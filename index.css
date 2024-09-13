@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0%;
     box-sizing: border-box;
@@ -7,8 +7,8 @@
 }
 
 body {
-    background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(190,17,212,1) 44%, rgba(227,96,2,1) 100%); 
+    background: rgb(0, 0, 0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(190, 17, 212, 1) 44%, rgba(227, 96, 2, 1) 100%);
 }
 
 ul {
@@ -16,7 +16,7 @@ ul {
     justify-content: space-evenly;
 }
 
-li{
+li {
     padding: 10%;
 }
 
